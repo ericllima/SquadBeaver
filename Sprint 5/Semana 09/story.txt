@@ -1,2 +1,3 @@
 Maria é uma estudante universitária que adora ler, mas tem dificuldade em organizar os livros digitais que baixa da internet. Muitas vezes ela esquece onde salvou os arquivos e perde tempo procurando.
 Durante o semestre, Maria percebe que precisa ler diversos artigos acadêmicos e livros técnicos. Porém, sem uma forma prática de categorizá-los, ela acaba se confundindo e até deixando de entregar trabalhos no prazo.
+Para resolver isso, Maria descobre um aplicativo de Biblioteca Digital, onde pode armazenar seus livros em PDF, ePUB e DOC, categorizando-os por disciplina, autor e tema. Além disso, o app permite marcar o progresso da leitura.
